@@ -1,0 +1,12 @@
+var l=["hello","john","kiran","jagan","Jar","ravi","kiran","tharun"];
+for(var i=0;i<l.length;i++)
+{
+   if(l[i]=="j"||l[i]=="J")
+   {
+    console.log("Goodye" + l[i]);
+   }
+   else
+  {
+   console.log("Hello" +l[i]);
+}
+}
