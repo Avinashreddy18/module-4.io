@@ -1,8 +1,6 @@
-(function(window)
-{
+(function(window){
   var speak="Hello";
-  var hellospeaker=function(name)
-  {
+  var hellospeaker=function(name){
     console.log(speak+" "+name);
   }
   window.hellospeaker=hellospeaker;
