@@ -6,4 +6,4 @@
     console.log(speak+" "+name);
   }
   window.hellospeaker=hellospeaker;
-})(window)
+})(window);
