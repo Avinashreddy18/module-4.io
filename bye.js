@@ -5,4 +5,5 @@
    {
      console.log(bye +" "+name);
    }
+   window.byespeaker=byespeaker;
    })(window);
