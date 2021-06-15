@@ -1,3 +1,4 @@
+(function(){
 var l=["hello","john","kiran","jagan","Jar","ravi","kiran","tharun"];
 for(var i=0;i<l.length;i++)
 {
@@ -10,3 +11,4 @@ for(var i=0;i<l.length;i++)
    hellospeaker(l[i])
 }
 }
+})();
