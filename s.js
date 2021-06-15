@@ -3,10 +3,10 @@ for(var i=0;i<l.length;i++)
 {
    if(l[i].charAt(0)=="j"||l[i].charAt(0)=="J")
    {
-    console.log("Goodye"+" " +l[i]);
+    byespeaker(l[i])
    }
    else
   {
-   console.log("Hello"+" "+ l[i]);
+   hellospeaker(l[i])
 }
 }
