@@ -4,11 +4,11 @@ for(var i=0;i<l.length;i++)
 {
    if(l[i].charAt(0)=="j"||l[i].charAt(0)=="J")
    {
-    byespeaker(l[i])
+    byespeaker(l[i]);
    }
    else
   {
-   hellospeaker(l[i])
-}
+   hellospeaker(l[i]);
+   }
 }
 })();
